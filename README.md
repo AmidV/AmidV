@@ -38,7 +38,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/AmidV/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/AmidV/github-stats-transparent/output/generated/overview.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmidV)](https://github.com/anuraghazra/github-readme-stats)
 ![Most Used Languages](https://raw.githubusercontent.com/AmidV/github-stats-transparent/output/generated/languages.svg)
 
 </a>
