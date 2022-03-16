@@ -6,8 +6,6 @@
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -39,7 +37,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href='https://github.com/AmidV/github-stats-transparent'>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmidV)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://raw.githubusercontent.com/AmidV/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmidV)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 
