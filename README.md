@@ -15,7 +15,7 @@ I am a trainee Front End Developer. I love exploring new tech stack 💻 and lev
 - 🔭 &nbsp; I’m currently working on <strong>@School of Code</strong> 4-weeks final project
 - 🌱 &nbsp; I’m currently learning React.js, NEXT.js and Typescript
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/dmitriy-yegorov-52a09942)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1eACWNt0UAL0ahcOlw9nhGk_o5fIVp8_J/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1GGw-IBRupccSFuDSVxCKdMWAWM9-ucAq/view)
 - 📧 &nbsp; Contact me in yegorovd14@gmail.com
 <br/>
 
